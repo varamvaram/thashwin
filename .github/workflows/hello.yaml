@@ -1,0 +1,9 @@
+employees:
+    -
+      id: 213
+      name: franc
+      others:
+          -{department: sales,did: 1}
+          -{salary: 5000}
+          -{address: usa, pincode: 97845}
+          
